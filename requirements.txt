@@ -1,0 +1,4 @@
+nltk
+sklearn
+pyttsx3
+numpy
